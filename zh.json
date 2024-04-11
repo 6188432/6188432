@@ -1,0 +1,22 @@
+{
+  "coal.N": "普通煤",
+  "coal.D": "这些石头富含煤",
+
+  "coal.ice.N": "冰煤",
+  "coal.ice.D": "这些冰冻的石头富含煤",
+
+  "coal.lava.N": "熔岩煤",
+  "coal.lava.D": "这些炽热的石头富含煤",
+
+  "coal.pure.N": "纯煤",
+  "coal.pure.D": "这看起来像是纯煤",
+
+  "stone.prismatic.N": "五彩矿石",
+  "stone.prismatic.D": "这些石头像星尘一样闪耀。",
+
+  "stone.obsidian.N": "黑曜石",
+  "stone.obsidian.D": "玻璃状火山岩。一种玻璃状火山岩，它里面可能有一个闪亮的惊喜。",
+
+  "stone.mudstone.N": "泥岩",
+  "stone.mudstone.D": "泥质沉积岩。"
+}
